@@ -1,0 +1,27 @@
+@media only screen and (max-width: 768px){
+    .first p{
+        background-color: yellow;
+        font-size: 40px;
+        display: inline-block;
+        text-align: center;
+        color: black;
+        margin-left: auto; 
+    }
+}
+@media only screen and (min-width: 425px){
+    .first p{
+        background-color: wheat;
+        font-size: 30px;
+        display: inline-block;
+        text-align: center;
+        color: blue;
+        margin-left: auto; 
+    }
+}
+@media only screen and (max-width: 375px){
+    .first p{
+        background-color: aquamarine;
+        font-size: 20px;
+        display: none;
+    }
+}

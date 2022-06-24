@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first p{
+    background-color: bisque;
+    font-size: 50px;
+    display: inline-block;
+    text-align: center;
+    color: blueviolet;
+    margin-left: 200px; 
+}
+h1{
+    color: gold;
+    margin-left: 200px;
+}
